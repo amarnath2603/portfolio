@@ -1,16 +1,17 @@
 import SkillCard from "./SkillCard";
 
+
 const skills = [
-    { title: ".NET & C#", description: "Expert in backend APIs and enterprise solutions" },
-    { title: "JavaScript & TypeScript", description: "Core technologies for full stack development" },
-    { title: "Angular & React", description: "Modern SPA development using framework and library" },
-    { title: "SQL Server & MongoDB", description: "Relational and NoSQL database design & optimization" },
-    { title: "Azure & Cloud Services", description: "Cloud infrastructure, deployment & DevOps pipelines" },
-    { title: "Kafka & Microservices", description: "Event-driven architecture and scalable system design" },
-    { title: "AI & Gen AI", description: "Applied ML, AI, and generative AI integration for automation" },
-    { title: "Team Leadership & Mentorship", description: "Leading dev teams, mentoring juniors, and project planning" },
-    // { title: "Project Management (Aspiring)", description: "Transitioning to combine technical expertise with strategic execution" }
+  { title: "MERN Stack", description: "I have hands-on practice building small projects using MongoDB, Express.js, React and Node.js" },
+  { title: "JavaScript & TypeScript", description: "Comfortable writing clean and modular code for front-end and back-end" },
+  { title: "React", description: "Able to create responsive and dynamic user interfaces" },
+  { title: "MongoDB", description: "Basic knowledge of designing and working with NoSQL databases" },
+  { title: "Git & GitHub", description: "Version control and collaborative development" },
+  { title: "Deployment Basics", description: "Learning to host apps on cloud platforms" },
+  { title: "Teamwork & Learning", description: "Quick learner, good at collaborating and open to mentorship" },
 ];
+
+
 
 
 const SkillGrid = () => {

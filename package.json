@@ -15,11 +15,11 @@
     "lucide-react": "^0.510.0",
     "primeicons": "^7.0.0",
     "primereact": "^10.9.4",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.0",
     "react-fast-marquee": "^1.6.5",
     "react-icons": "^5.5.0",
-    "react-router-dom": "^7.5.2",
+    "react-router-dom": "^7.9.1",
     "tailwind-merge": "^3.3.0",
     "tailwindcss-animate": "^1.0.7"
   },
@@ -38,5 +38,18 @@
     "typescript": "~5.7.2",
     "typescript-eslint": "^8.26.1",
     "vite": "^6.3.1"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinothsasikumar/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinothsasikumar/portfolio/issues"
+  },
+  "homepage": "https://github.com/vinothsasikumar/portfolio#readme"
 }

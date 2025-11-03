@@ -13,7 +13,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Projects from './pages/Projects';
-import Blog from './pages/Blog';
+
 
 
 const App = () => {
@@ -28,7 +28,6 @@ const App = () => {
               <Route path="*" element={<Navigate to="/home" />} />
 
               <Route path='/home' element={<Home />} />
-              <Route path='/blogs' element={<Blog />} />
               <Route path='/projects' element={<Projects />} />
               <Route path='/about' element={<About />} />
               <Route path='/contact' element={<Contact />} />

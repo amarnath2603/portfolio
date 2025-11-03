@@ -1,8 +1,8 @@
-import { AiFillLinkedin, AiFillGithub, AiFillInstagram, AiFillFacebook } from 'react-icons/ai';
+import { AiFillLinkedin, AiFillGithub, AiFillInstagram} from 'react-icons/ai';
 import { GoMail, GoLocation } from "react-icons/go";
 import { ArrowRight } from 'lucide-react';
 
-import ShiningButton from '../components/mage/ShiningButton';
+import ShiningButton from '../components/Mage/ShiningButton';
 
 
 const Contact = () => {
@@ -30,7 +30,7 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <p className="text-white font-semibold">Email</p>
-                                    <p className="text-gray-400 text-sm">vinoth.sasikumar@outlook.com</p>
+                                    <p className="text-gray-400 text-sm">amarnathamar2603@gmail.com</p>
                                 </div>
                             </div>
 
@@ -40,15 +40,15 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <p className="text-white font-semibold">Location</p>
-                                    <p className="text-gray-400 text-sm">Chennai, TamilNadu, India</p>
+                                    <p className="text-gray-400 text-sm">Trichy, TamilNadu, India</p>
                                 </div>
                             </div>
 
                             <div className="flex flex-row justify-start items-center gap-5 text-3xl text-white">
-                                <a className='transition-colors duration-300 hover:text-mart-yellow' href='https://www.linkedin.com/in/vinothsasikumar' target='_blank' rel='noreferrer'><AiFillLinkedin /></a>
-                                <a className='transition-colors duration-300 hover:text-mart-yellow' href='https://github.com/vinothsasikumar' target='_blank' rel='noreferrer'><AiFillGithub /></a>
-                                <a className='transition-colors duration-300 hover:text-mart-yellow' href='https://www.instagram.com/vinoth_sasikumar' target='_blank' rel='noreferrer'><AiFillInstagram /></a>
-                                <a className='transition-colors duration-300 hover:text-mart-yellow' href='https://www.facebook.com/vinothsasikumar26' target='_blank' rel='noreferrer'><AiFillFacebook /></a>
+                                <a className='transition-colors duration-300 hover:text-mart-yellow' href='https://www.linkedin.com/in/amar-amarnath2603'target='_blank' rel='noreferrer'><AiFillLinkedin /></a>
+                                <a className='transition-colors duration-300 hover:text-mart-yellow' href='https://github.com/amarnath2603' target='_blank' rel='noreferrer'><AiFillGithub /></a>
+                                <a className='transition-colors duration-300 hover:text-mart-yellow' href='https://www.instagram.com/amar_nath2603/' target='_blank' rel='noreferrer'><AiFillInstagram /></a>
+                            
                             </div>
                         </div>
 
