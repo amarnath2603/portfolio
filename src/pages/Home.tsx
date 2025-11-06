@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { DownloadIcon } from "lucide-react";
 import SkillGrid from "../components/SkillGrid";
 import Inspiration from "../components/Inspiration";
-import ShiningButton from "../components/Mage/ShiningButton";
+import ShiningButton from "../components/mage/ShiningButton";
 import { SiFreelancer } from "react-icons/si";
 import { NavLink } from "react-router-dom";
 

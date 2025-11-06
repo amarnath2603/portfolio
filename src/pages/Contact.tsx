@@ -2,7 +2,7 @@ import { AiFillLinkedin, AiFillGithub, AiFillInstagram} from 'react-icons/ai';
 import { GoMail, GoLocation } from "react-icons/go";
 import { ArrowRight } from 'lucide-react';
 
-import ShiningButton from '../components/Mage/ShiningButton';
+import ShiningButton from '../components/mage/ShiningButton';
 
 
 const Contact = () => {
