@@ -45,12 +45,13 @@ const About = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6 }}
         >
-          <p>
-            Hello! I’m <span className="font-bold text-white">Amarnath Vijayakumar</span>, 
-            a recent graduate and aspiring full-stack developer passionate about
-            building dynamic web applications using modern technologies like the
-            MERN stack (MongoDB, Express.js, React, Node.js).
-          </p>
+         <p>
+  Hello! I’m <span className="font-bold text-white">Amarnath Vijayakumar</span>, 
+  currently working as an <span className="font-bold text-white">Assistant Professor in Computer Science</span>. 
+  I am passionate about <span className="font-bold text-white">teaching, mentoring students, and building dynamic web applications</span> 
+  using modern technologies like the <span className="font-bold text-white">MERN stack (MongoDB, Express.js, React, Node.js)</span>. 
+  I strive to bridge the gap between theory and practice, helping students gain practical skills while advancing my own expertise in full-stack development.
+</p>
           <br />
           <p>
             I enjoy learning new frameworks, writing clean code, and

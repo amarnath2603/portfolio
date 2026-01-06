@@ -6,7 +6,7 @@ import ShiningButton from "../components/mage/ShiningButton";
 import { SiFreelancer } from "react-icons/si";
 import { NavLink } from "react-router-dom";
 
-const roles = ["Full Stack Developer","MERN Stack Developer"];
+const roles = ["Assistant Professor", "Full Stack Developer", "MERN Stack Developer"];
 
 const Home = () => {
   const [currentRole, setCurrentRole] = useState(0);
@@ -46,8 +46,7 @@ const Home = () => {
             <span className="animate-pulse">|</span>
           </h2>
           <p className="text-[#8B99AE] text-justify">
-            I am a MERN stack developer with experience in building scalable full-stack web applications. My expertise includes creating RESTful APIs with Node.js and Express.js, designing dynamic and interactive user interfaces with React, and managing databases with MongoDB. I focus on clean code, performance, and responsive designs for a seamless user experience.
-          </p>
+I am a dedicated M.Sc. Computer Science graduate with strong academic knowledge and practical expertise in Java, Python, HTML, CSS, JavaScript, and MERN stack development. I am passionate about teaching, mentoring students, and fostering a deep understanding of computer science concepts. Currently preparing for UGC NET, I aim to contribute to academic excellence, research, and innovative learning methods in higher education. I am committed to creating an engaging learning environment and bridging the gap between theory and practical applications for my students          </p>
           <div className="flex flex-col md:flex-col lg:flex-row justify-start items-center gap-10">
             <a
               href="https://www.linkedin.com/in/amar-amarnath2603/"

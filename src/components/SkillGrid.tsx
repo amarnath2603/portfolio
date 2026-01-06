@@ -1,15 +1,36 @@
 import SkillCard from "./SkillCard";
-
-
 const skills = [
-  { title: "MERN Stack", description: "I have hands-on practice building small projects using MongoDB, Express.js, React and Node.js" },
-  { title: "JavaScript & TypeScript", description: "Comfortable writing clean and modular code for front-end and back-end" },
-  { title: "React", description: "Able to create responsive and dynamic user interfaces" },
-  { title: "MongoDB", description: "Basic knowledge of designing and working with NoSQL databases" },
-  { title: "Git & GitHub", description: "Version control and collaborative development" },
-  { title: "Deployment Basics", description: "Learning to host apps on cloud platforms" },
-  { title: "Teamwork & Learning", description: "Quick learner, good at collaborating and open to mentorship" },
+  { 
+    title: "MERN Stack", 
+    description: "Hands-on experience building web applications using MongoDB, Express.js, React, and Node.js; also guide students on practical projects." 
+  },
+  { 
+    title: "JavaScript & TypeScript", 
+    description: "Write clean, modular code for front-end and back-end; mentor students on best coding practices." 
+  },
+  { 
+    title: "React", 
+    description: "Create responsive and dynamic user interfaces; teach modern front-end development techniques." 
+  },
+  { 
+    title: "MongoDB", 
+    description: "Design and work with NoSQL databases; help students understand database principles and implementation." 
+  },
+  { 
+    title: "Git & GitHub", 
+    description: "Version control and collaborative development; guide students in team projects and Git workflows." 
+  },
+  { 
+    title: "Deployment & Cloud Basics", 
+    description: "Host applications on cloud platforms; teach students deployment workflows and best practices." 
+  },
+  { 
+    title: "Teamwork & Mentorship", 
+    description: "Quick learner, collaborative, and experienced in mentoring students to foster learning and growth." 
+  },
 ];
+
+
 
 
 
