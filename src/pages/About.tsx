@@ -45,12 +45,15 @@ const About = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6 }}
         >
-         <p>
-  Hello! I’m <span className="font-bold text-white">Amarnath Vijayakumar</span>, 
-  currently working as an <span className="font-bold text-white">Assistant Professor in Computer Science</span>. 
-  I am passionate about <span className="font-bold text-white">teaching, mentoring students, and building dynamic web applications</span> 
-  using modern technologies like the <span className="font-bold text-white">MERN stack (MongoDB, Express.js, React, Node.js)</span>. 
-  I strive to bridge the gap between theory and practice, helping students gain practical skills while advancing my own expertise in full-stack development.
+        <p>
+  Hello! I'm <span className="font-bold text-white">Amarnath Vijayakumar</span>, currently working as an
+  <span className="font-bold text-white"> Assistant Professor in the Department of Computer Applications at MIET Arts and Science College</span>.
+  I am passionate about teaching, mentoring students, and empowering them with practical programming and problem-solving skills.
+  Alongside my academic career, I specialize in
+  <span className="font-bold text-white"> Full-Stack Web Development</span> using the
+  <span className="font-bold text-white"> MERN Stack (MongoDB, Express.js, React, and Node.js)</span>.
+  I enjoy developing modern, responsive web applications and continuously expanding my knowledge in software development and emerging technologies such as Artificial Intelligence.
+  My goal is to bridge the gap between classroom learning and industry requirements by providing students with hands-on, real-world experience while continuously growing as an educator and developer.
 </p>
           <br />
           <p>

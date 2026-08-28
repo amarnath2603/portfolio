@@ -46,7 +46,8 @@ const Home = () => {
             <span className="animate-pulse">|</span>
           </h2>
           <p className="text-[#8B99AE] text-justify">
-I am a dedicated M.Sc. Computer Science graduate with strong academic knowledge and practical expertise in Java, Python, HTML, CSS, JavaScript, and MERN stack development. I am passionate about teaching, mentoring students, and fostering a deep understanding of computer science concepts. Currently preparing for UGC NET, I aim to contribute to academic excellence, research, and innovative learning methods in higher education. I am committed to creating an engaging learning environment and bridging the gap between theory and practical applications for my students          </p>
+  I am an <span className="font-semibold text-white">Assistant Professor in the Department of Computer Applications at MIET Arts and Science College</span> with a strong academic background in Computer Science. I hold an <span className="font-semibold text-white">M.Sc. in Computer Science</span> and possess practical expertise in <span className="font-semibold text-white">Java, Python, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and the MERN Stack</span>. I am passionate about teaching, mentoring students, and helping them develop both technical and problem-solving skills through practical learning experiences. My interests include Full-Stack Web Development, Artificial Intelligence, and emerging technologies. I am committed to creating an engaging, student-centred learning environment that bridges the gap between academic theory and real-world applications while contributing to academic excellence, research, and continuous professional development.
+</p>
           <div className="flex flex-col md:flex-col lg:flex-row justify-start items-center gap-10">
             <a
               href="https://www.linkedin.com/in/amar-amarnath2603/"
