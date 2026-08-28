@@ -50,7 +50,7 @@ const Home = () => {
 </p>
           <div className="flex flex-col md:flex-col lg:flex-row justify-start items-center gap-10">
             <a
-              href="https://www.linkedin.com/in/amar-amarnath2603/"
+              href="https://www.linkedin.com/in/amarnath2603"
               aria-label="linkedin"
               target="_blank"
               rel="noopener noreferrer"
